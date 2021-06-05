@@ -15,6 +15,7 @@ A backend for an e-commerce site using express.js api and sequelize to interact 
 
 ## Installation
 Clone the repo, then open the terminal in the root directory and type npm install.
+https://youtu.be/hcAM2DgC8Hc
 
 ## Usage
 To start use npm start in the terminal.
